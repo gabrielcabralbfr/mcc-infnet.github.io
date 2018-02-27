@@ -1,0 +1,16 @@
+.foto-membro {
+    min-width: 150px;
+}
+
+.foto-membro > img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto-membro > a {
+    text-align: center;
+}
