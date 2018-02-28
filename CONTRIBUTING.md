@@ -23,7 +23,7 @@ Para se adicionar na nossa lista de membro siga os passos a seguir:
 ```
 <div class="foto-membro col-xs-6 col-sm-3 col-md-3 col-lg-3">
     <img src="img/members/ *NOME DA SUA FOTO.EXTENSÃO* " alt=" *SEU NOME* ">
-    <a href=" *UM ENDEREÇO DE PÁGINA* ">
+    <a target="_blank" href=" *UM ENDEREÇO DE PÁGINA* ">
         <h4> *SEU NOME* </h4>
     </a>
 </div>
