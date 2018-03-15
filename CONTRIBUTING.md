@@ -17,17 +17,15 @@ Para se adicionar na nossa lista de membro siga os passos a seguir:
 1. Dê um fork no nosso projeto.
 2. Adicione uma foto sua na pasta img/members, não se esqueça de ler o README disposto.
 3. Procure o Arquivo: members.html
-4. Vá até a linha 88 do Arquivo members.html
+4. Vá até a linha 93 do Arquivo members.html
 5. E se adicione o arquivo seguindo o seguinte escopo:
 
 ```
-<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-    <div class="col-xs-3 .col-sm-1">
-        <img src="img/members/ *NOME DA SUA FOTO.EXTENSÃO* " alt=" *SEU NOME* " style="border-radius: 50%;width:150px;height:150px;">
-        <a href=" *UM ENDEREÇO DE PÁGINA* ">
-            <h4> *SEU NOME* </h4>
-        </a>
-    </div>
+<div class="foto-membro col-xs-6 col-sm-3 col-md-3 col-lg-3">
+    <img src="img/members/ *NOME DA SUA FOTO.EXTENSÃO* " alt=" *SEU NOME* ">
+    <a target="_blank" href=" *UM ENDEREÇO DE PÁGINA* ">
+        <h4> *SEU NOME* </h4>
+    </a>
 </div>
 ```
 
